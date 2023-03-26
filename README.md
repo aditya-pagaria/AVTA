@@ -12,5 +12,4 @@ Register drivers
 View Vehicles
 Register vehicles
 
-https://avtrackingsystem.herokuapp.com/
 
